@@ -59,6 +59,13 @@ public void method6() {
 	System.out.println("Method 26");
 	
 }
+@Test
+public void method65() {
+	
+	
+	System.out.println("Method 265");
+	
+}
 
 @BeforeClass
 public void class1() {
