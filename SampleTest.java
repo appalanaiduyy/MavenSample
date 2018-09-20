@@ -52,7 +52,13 @@ public void method2() {
 	System.out.println("Method 2");
 	
 }
-
+@Test
+public void method6() {
+	
+	
+	System.out.println("Method 26");
+	
+}
 @Test
 public void method3() {
 	
